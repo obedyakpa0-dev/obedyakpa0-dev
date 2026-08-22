@@ -38,42 +38,6 @@ Frontend
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,render,linux" />
 </p>---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=obedyakpa0-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=obedyakpa0-dev&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>---
-
-🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=obedyakpa0-dev&theme=tokyonight&hide_border=true"
-  />
-</p>---
-
-🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=obedyakpa0-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-  />
-</p>---
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/obedyakpa0-dev/obedyakpa0-dev/output/github-contribution-grid-snake.svg"
-  />
-</p>---
 
 📫 Connect With Me
 
